@@ -4,7 +4,7 @@
 - 🌱Learnability first
 - 😲 I love runnning and swimming in cold water ❄️
 - 📫 Know about my experiences at Linkedin [@gracia-garrido](https://www.linkedin.com/in/gracia-garrido/)
-- 🌐 Open to work in Spain, Portugal or remotely 
+- 🌍 Open to work in Spain, Portugal or remotely 
 - 😄 Pronouns: vovô 👵 e vovó 👴 in Potuguese
 
 <h4 align="left">What's in my bag?</h4>
