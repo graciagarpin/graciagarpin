@@ -7,7 +7,7 @@
 - 🌍 Open to work in Spain, Portugal or remotely 
 - 😄 Pronouns: vovô 👵 e vovó 👴 in Potuguese
 
-### <p align="left"> 🧰 What's in my bag? </p>
+### <p align="left"> 🧰 TOOLS </p>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
